@@ -1,0 +1,1085 @@
+date,City,No. Stations,Air Quality,Index Value,Prominent Pollutant
+2020-11-09,Agartala,1.0,Satisfactory,67,PM2.5
+2020-11-10,Agartala,1.0,Satisfactory,73,PM2.5
+2020-11-11,Agartala,1.0,Satisfactory,90,PM2.5
+2020-11-12,Agartala,1.0,Satisfactory,75,PM2.5
+2020-11-13,Agartala,1.0,Satisfactory,66,PM2.5
+2020-11-14,Agartala,1.0,Satisfactory,68,PM10
+2020-11-15,Agartala,1.0,Poor,259,PM2.5
+2020-11-16,Agartala,1.0,Moderate,192,PM2.5
+2020-11-17,Agartala,1.0,Moderate,183,PM2.5
+2020-11-18,Agartala,1.0,Moderate,131,PM2.5
+2020-11-19,Agartala,1.0,Moderate,162,PM2.5
+2020-11-20,Agartala,1.0,Moderate,172,PM2.5
+2020-11-21,Agartala,1.0,Poor,206,PM2.5
+2020-11-22,Agartala,1.0,Moderate,166,PM2.5
+2020-11-23,Agartala,1.0,Poor,233,PM2.5
+2020-11-24,Agartala,1.0,Poor,213,PM2.5
+2020-11-25,Agartala,1.0,Moderate,149,PM2.5
+2020-11-26,Agartala,1.0,Moderate,113,PM2.5
+2020-11-27,Agartala,1.0,Moderate,153,PM2.5
+2020-11-28,Agartala,1.0,Moderate,187,PM2.5
+2020-11-29,Agartala,1.0,Moderate,196,PM2.5
+2020-11-30,Agartala,1.0,Moderate,177,PM2.5
+2020-12-01,Agartala,1.0,Poor,221,PM2.5
+2020-12-02,Agartala,1.0,Moderate,193,PM2.5
+2020-12-03,Agartala,1.0,Moderate,187,PM2.5
+2020-12-04,Agartala,1.0,Poor,204,PM2.5
+2020-12-05,Agartala,1.0,Satisfactory,79,PM2.5
+2020-12-06,Agartala,1.0,Moderate,101,PM2.5
+2020-12-07,Agartala,1.0,Satisfactory,100,PM10
+2020-12-08,Agartala,1.0,Satisfactory,91,PM2.5
+2020-12-09,Agartala,1.0,Satisfactory,88,PM2.5
+2020-12-10,Agartala,1.0,Moderate,150,PM2.5
+2020-12-11,Agartala,1.0,Moderate,119,PM2.5
+2020-12-12,Agartala,1.0,Moderate,138,PM2.5
+2020-12-13,Agartala,1.0,Moderate,147,PM2.5
+2020-12-14,Agartala,1.0,Moderate,140,PM2.5
+2020-12-15,Agartala,1.0,Moderate,167,PM2.5
+2020-12-16,Agartala,1.0,Moderate,182,PM2.5
+2020-12-17,Agartala,1.0,Moderate,168,PM2.5
+2020-12-18,Agartala,1.0,Moderate,179,PM2.5
+2020-12-19,Agartala,1.0,Moderate,175,PM2.5
+2020-12-20,Agartala,1.0,Poor,210,PM2.5
+2020-12-21,Agartala,1.0,Moderate,169,PM2.5
+2020-12-22,Agartala,1.0,Moderate,158,PM2.5
+2020-12-23,Agartala,1.0,Moderate,190,PM2.5
+2020-12-24,Agartala,1.0,Moderate,178,PM2.5
+2020-12-25,Agartala,1.0,Satisfactory,94,PM2.5
+2020-12-26,Agartala,1.0,Moderate,133,PM2.5
+2020-12-27,Agartala,1.0,Moderate,158,PM2.5
+2020-12-28,Agartala,1.0,Poor,213,PM2.5
+2020-12-29,Agartala,1.0,Moderate,163,PM2.5
+2021-01-02,Agartala,1.0,Moderate,115,PM2.5
+2021-01-03,Agartala,1.0,Moderate,172,PM2.5
+2021-01-04,Agartala,1.0,Moderate,170,PM2.5
+2021-01-05,Agartala,1.0,Moderate,117,PM2.5
+2021-01-06,Agartala,1.0,Moderate,120,PM2.5
+2021-01-07,Agartala,1.0,Moderate,180,PM2.5
+2021-01-08,Agartala,1.0,Poor,285,PM2.5
+2021-01-09,Agartala,1.0,Very Poor,311,PM2.5
+2021-01-10,Agartala,1.0,Very Poor,326,PM2.5
+2021-01-11,Agartala,1.0,Very Poor,337,PM2.5
+2021-01-12,Agartala,1.0,Poor,205,PM2.5
+2021-01-13,Agartala,1.0,Moderate,156,PM2.5
+2021-01-14,Agartala,1.0,Moderate,192,PM2.5
+2021-01-15,Agartala,1.0,Moderate,129,PM2.5
+2021-01-16,Agartala,1.0,Poor,235,PM2.5
+2021-01-19,Agartala,1.0,Poor,272,PM2.5
+2021-01-20,Agartala,1.0,Poor,253,PM2.5
+2021-01-21,Agartala,1.0,Poor,216,PM2.5
+2021-01-22,Agartala,1.0,Moderate,194,PM2.5
+2021-01-23,Agartala,1.0,Poor,242,PM2.5
+2021-01-24,Agartala,1.0,Poor,246,PM2.5
+2021-01-25,Agartala,1.0,Moderate,120,PM2.5
+2021-01-26,Agartala,1.0,Moderate,195,PM2.5
+2021-01-27,Agartala,1.0,Moderate,189,PM2.5
+2021-01-28,Agartala,1.0,Moderate,159,PM2.5
+2021-01-29,Agartala,1.0,Moderate,188,PM2.5
+2021-01-30,Agartala,1.0,Poor,226,PM2.5
+2021-01-31,Agartala,1.0,Poor,241,PM2.5
+2021-02-01,Agartala,1.0,Poor,226,PM2.5
+2021-02-02,Agartala,1.0,Moderate,138,PM10
+2021-02-03,Agartala,1.0,Poor,210,PM2.5
+2021-02-04,Agartala,1.0,Moderate,180,PM2.5
+2021-02-05,Agartala,1.0,Moderate,132,PM2.5
+2021-02-06,Agartala,1.0,Moderate,112,PM2.5
+2021-02-07,Agartala,1.0,Moderate,124,PM2.5
+2021-02-08,Agartala,1.0,Moderate,133,PM2.5
+2021-02-09,Agartala,1.0,Moderate,147,PM2.5
+2021-02-10,Agartala,1.0,Moderate,175,PM2.5
+2021-02-11,Agartala,1.0,Poor,260,PM2.5
+2021-02-12,Agartala,1.0,Moderate,195,PM2.5
+2021-02-13,Agartala,1.0,Poor,210,PM2.5
+2021-02-14,Agartala,1.0,Poor,222,PM2.5
+2021-02-15,Agartala,1.0,Moderate,178,PM2.5
+2021-02-16,Agartala,1.0,Poor,213,PM2.5
+2021-02-17,Agartala,1.0,Moderate,154,PM2.5
+2021-02-18,Agartala,1.0,Moderate,155,PM2.5
+2021-02-19,Agartala,1.0,Moderate,137,PM2.5
+2021-02-20,Agartala,1.0,Moderate,150,PM2.5
+2021-02-21,Agartala,1.0,Poor,223,PM2.5
+2021-02-22,Agartala,1.0,Moderate,165,PM2.5
+2021-02-23,Agartala,1.0,Moderate,153,PM2.5
+2021-02-24,Agartala,1.0,Moderate,142,PM2.5
+2021-02-25,Agartala,1.0,Moderate,149,PM2.5
+2021-02-26,Agartala,1.0,Moderate,115,PM2.5
+2021-02-27,Agartala,1.0,Satisfactory,87,PM2.5
+2021-02-28,Agartala,1.0,Satisfactory,70,PM2.5
+2021-03-01,Agartala,1.0,Satisfactory,71,PM2.5
+2021-03-02,Agartala,1.0,Satisfactory,71,PM2.5
+2021-03-03,Agartala,1.0,Satisfactory,85,PM2.5
+2021-03-04,Agartala,1.0,Moderate,200,PM2.5
+2021-03-06,Agartala,1.0,Moderate,118,PM2.5
+2021-03-09,Agartala,1.0,Moderate,142,PM2.5
+2021-03-12,Agartala,1.0,Moderate,179,PM2.5
+2021-03-13,Agartala,1.0,Poor,225,PM2.5
+2021-03-14,Agartala,1.0,Moderate,140,PM2.5
+2021-03-15,Agartala,1.0,Moderate,188,PM2.5
+2021-03-16,Agartala,1.0,Poor,229,PM2.5
+2021-03-17,Agartala,1.0,Poor,243,PM2.5
+2021-03-18,Agartala,1.0,Poor,258,PM2.5
+2021-03-19,Agartala,1.0,Poor,270,PM2.5
+2021-03-20,Agartala,1.0,Poor,274,PM2.5
+2021-03-21,Agartala,1.0,Very Poor,314,PM2.5
+2021-03-22,Agartala,1.0,Poor,287,PM2.5
+2021-03-23,Agartala,1.0,Poor,235,PM2.5
+2021-03-24,Agartala,1.0,Poor,263,PM2.5
+2021-03-25,Agartala,1.0,Moderate,141,PM10
+2021-03-26,Agartala,1.0,Moderate,158,PM10
+2021-03-27,Agartala,1.0,Moderate,146,PM10
+2021-03-28,Agartala,1.0,Moderate,152,PM10
+2021-03-29,Agartala,1.0,Moderate,176,PM2.5
+2021-03-30,Agartala,1.0,Satisfactory,97,PM10
+2021-03-31,Agartala,1.0,Moderate,104,PM10
+2021-04-01,Agartala,1.0,Satisfactory,78,PM10
+2021-04-02,Agartala,1.0,Satisfactory,96,PM10
+2021-04-03,Agartala,1.0,Moderate,115,PM10
+2021-04-04,Agartala,1.0,Moderate,119,PM10
+2021-04-05,Agartala,1.0,Satisfactory,86,PM10
+2021-04-06,Agartala,1.0,Moderate,151,O3
+2021-04-07,Agartala,1.0,Moderate,108,PM10
+2021-04-08,Agartala,1.0,Satisfactory,85,PM10
+2021-04-09,Agartala,1.0,Satisfactory,56,PM10
+2021-04-10,Agartala,1.0,Satisfactory,75,PM10
+2021-04-11,Agartala,1.0,Satisfactory,95,PM10
+2021-04-12,Agartala,1.0,Satisfactory,92,PM10
+2021-04-13,Agartala,1.0,Satisfactory,87,PM10
+2021-04-14,Agartala,1.0,Satisfactory,74,PM10
+2021-04-15,Agartala,1.0,Satisfactory,62,PM10
+2021-04-16,Agartala,1.0,Satisfactory,61,PM10
+2021-04-17,Agartala,1.0,Satisfactory,77,O3
+2021-04-18,Agartala,1.0,Satisfactory,63,O3
+2021-04-19,Agartala,1.0,Satisfactory,57,PM10
+2021-04-20,Agartala,1.0,Satisfactory,54,PM10
+2021-04-21,Agartala,1.0,Satisfactory,62,PM10
+2021-04-22,Agartala,1.0,Satisfactory,74,PM10
+2021-04-23,Agartala,1.0,Moderate,124,PM2.5
+2021-04-24,Agartala,1.0,Moderate,152,O3
+2021-04-25,Agartala,1.0,Moderate,161,O3
+2021-04-26,Agartala,1.0,Moderate,133,PM2.5
+2021-04-27,Agartala,1.0,Satisfactory,91,PM10
+2021-04-28,Agartala,1.0,Satisfactory,76,PM10
+2021-04-29,Agartala,1.0,Poor,203,O3
+2021-04-30,Agartala,1.0,Moderate,102,O3
+2021-05-01,Agartala,1.0,Satisfactory,76,PM10
+2021-05-02,Agartala,1.0,Satisfactory,61,O3
+2021-05-03,Agartala,1.0,Satisfactory,51,O3
+2021-05-04,Agartala,1.0,Satisfactory,70,PM10
+2021-05-05,Agartala,1.0,Satisfactory,91,O3
+2021-05-06,Agartala,1.0,Satisfactory,79,PM2.5
+2021-05-07,Agartala,1.0,Satisfactory,56,PM2.5
+2021-05-08,Agartala,1.0,Good,31,PM2.5
+2021-05-09,Agartala,1.0,Good,46,O3
+2021-05-10,Agartala,1.0,Good,37,O3
+2021-05-11,Agartala,1.0,Good,30,O3
+2021-05-12,Agartala,1.0,Good,45,O3
+2021-05-13,Agartala,1.0,Good,32,PM2.5
+2021-05-14,Agartala,1.0,Good,40,O3
+2021-05-15,Agartala,1.0,Good,27,O3
+2021-05-16,Agartala,1.0,Good,24,PM10
+2021-05-17,Agartala,1.0,Good,25,PM2.5
+2021-05-19,Agartala,1.0,Good,21,O3
+2021-05-20,Agartala,1.0,Good,24,PM10
+2021-05-21,Agartala,1.0,Good,26,PM10
+2021-05-22,Agartala,1.0,Good,29,PM10
+2021-05-23,Agartala,1.0,Good,42,PM10
+2021-05-24,Agartala,1.0,Good,29,O3
+2021-05-25,Agartala,1.0,Good,22,SO2
+2021-05-26,Agartala,1.0,Good,29,O3
+2021-05-27,Agartala,1.0,Good,39,PM10
+2021-05-28,Agartala,1.0,Satisfactory,53,PM10
+2021-05-29,Agartala,1.0,Good,50,PM2.5
+2021-05-30,Agartala,1.0,Satisfactory,61,PM2.5
+2021-05-31,Agartala,1.0,Satisfactory,60,PM10
+2021-06-02,Agartala,1.0,Good,27,O3
+2021-06-03,Agartala,1.0,Good,50,PM2.5
+2021-06-04,Agartala,1.0,Good,41,PM2.5
+2021-06-05,Agartala,1.0,Good,37,PM2.5
+2021-06-07,Agartala,1.0,Good,31,PM2.5
+2021-06-08,Agartala,1.0,Good,35,PM2.5
+2021-06-09,Agartala,1.0,Good,48,PM2.5
+2021-06-11,Agartala,1.0,Good,21,SO2
+2021-06-12,Agartala,1.0,Good,22,SO2
+2021-06-13,Agartala,1.0,Good,22,SO2
+2021-06-15,Agartala,1.0,Good,22,SO2
+2021-06-16,Agartala,1.0,Good,25,PM2.5
+2021-06-17,Agartala,1.0,Good,26,PM2.5
+2021-06-20,Agartala,1.0,Good,21,SO2
+2021-06-21,Agartala,1.0,Good,21,SO2
+2021-06-22,Agartala,1.0,Good,42,PM2.5
+2021-06-23,Agartala,1.0,Good,38,PM2.5
+2021-06-24,Agartala,1.0,Good,47,PM2.5
+2021-06-25,Agartala,1.0,Good,48,PM2.5
+2021-06-26,Agartala,1.0,Good,35,PM2.5
+2021-06-27,Agartala,1.0,Good,40,PM2.5
+2021-06-28,Agartala,1.0,Good,34,PM2.5
+2021-06-29,Agartala,1.0,Good,31,PM2.5
+2021-07-03,Agartala,1.0,Good,24,PM2.5
+2021-07-04,Agartala,1.0,Good,22,SO2
+2021-07-05,Agartala,1.0,Good,22,SO2
+2021-07-06,Agartala,1.0,Good,28,PM2.5
+2021-07-09,Agartala,1.0,Good,22,SO2
+2021-07-10,Agartala,1.0,Good,28,PM2.5
+2021-07-15,Agartala,1.0,Good,25,PM10
+2021-07-16,Agartala,1.0,Good,34,PM10
+2021-07-17,Agartala,1.0,Good,23,SO2
+2021-07-18,Agartala,1.0,Good,24,SO2
+2021-07-19,Agartala,1.0,Good,23,SO2
+2021-07-20,Agartala,1.0,Good,23,SO2
+2021-07-21,Agartala,1.0,Good,23,SO2
+2021-07-23,Agartala,1.0,Good,23,SO2
+2021-07-24,Agartala,1.0,Good,23,SO2
+2021-07-25,Agartala,1.0,Good,24,PM10
+2021-07-26,Agartala,1.0,Good,28,PM10
+2021-07-27,Agartala,1.0,Good,23,SO2
+2021-07-28,Agartala,1.0,Good,24,SO2
+2021-07-29,Agartala,1.0,Good,23,SO2
+2021-07-30,Agartala,1.0,Good,24,SO2
+2021-07-31,Agartala,1.0,Good,23,SO2
+2021-08-01,Agartala,1.0,Good,25,PM10
+2021-08-02,Agartala,1.0,Good,31,PM10
+2021-08-03,Agartala,1.0,Good,26,PM10
+2021-08-04,Agartala,1.0,Good,25,PM10
+2021-08-05,Agartala,1.0,Good,33,O3
+2021-08-06,Agartala,1.0,Good,30,PM10
+2021-08-07,Agartala,1.0,Good,23,SO2
+2021-08-08,Agartala,1.0,Good,23,SO2
+2021-08-09,Agartala,1.0,Good,23,SO2
+2021-08-11,Agartala,1.0,Satisfactory,55,PM2.5
+2021-08-12,Agartala,1.0,Good,41,PM10
+2021-08-13,Agartala,1.0,Good,30,PM10
+2021-08-14,Agartala,1.0,Good,32,PM10
+2021-08-15,Agartala,1.0,Good,30,PM10
+2021-08-16,Agartala,1.0,Good,23,SO2
+2021-08-17,Agartala,1.0,Good,23,SO2
+2021-08-18,Agartala,1.0,Good,23,SO2
+2021-08-19,Agartala,1.0,Good,23,SO2
+2021-08-20,Agartala,1.0,Good,23,SO2
+2021-08-21,Agartala,1.0,Good,26,PM10
+2021-08-22,Agartala,1.0,Good,25,PM10
+2021-08-24,Agartala,1.0,Good,26,PM10
+2021-08-25,Agartala,1.0,Good,27,PM10
+2021-08-26,Agartala,1.0,Good,34,PM10
+2021-08-27,Agartala,1.0,Good,29,PM10
+2021-08-28,Agartala,1.0,Good,24,SO2
+2021-08-30,Agartala,1.0,Good,24,SO2
+2021-08-31,Agartala,1.0,Good,28,PM10
+2021-09-01,Agartala,1.0,Good,27,PM10
+2021-09-02,Agartala,1.0,Good,40,PM10
+2021-09-03,Agartala,1.0,Satisfactory,71,PM2.5
+2021-09-04,Agartala,1.0,Satisfactory,54,PM10
+2021-09-05,Agartala,1.0,Satisfactory,58,PM10
+2021-09-06,Agartala,1.0,Good,29,PM10
+2021-09-07,Agartala,1.0,Good,32,PM10
+2021-09-08,Agartala,1.0,Good,32,PM10
+2021-09-09,Agartala,1.0,Good,34,PM10
+2021-09-10,Agartala,1.0,Good,50,PM10
+2021-09-11,Agartala,1.0,Good,31,PM10
+2021-09-12,Agartala,1.0,Good,23,SO2
+2021-09-13,Agartala,1.0,Good,26,PM10
+2021-09-14,Agartala,1.0,Good,24,SO2
+2021-09-15,Agartala,1.0,Good,29,PM10
+2021-09-16,Agartala,1.0,Good,27,PM10
+2021-09-17,Agartala,1.0,Good,31,PM10
+2021-09-18,Agartala,1.0,Good,23,SO2
+2021-09-19,Agartala,1.0,Good,24,SO2
+2021-09-20,Agartala,1.0,Good,35,PM10
+2021-09-21,Agartala,1.0,Good,47,PM10
+2021-09-22,Agartala,1.0,Satisfactory,61,PM10
+2021-09-23,Agartala,1.0,Satisfactory,64,PM10
+2021-09-24,Agartala,1.0,Satisfactory,86,PM10
+2021-09-25,Agartala,1.0,Satisfactory,64,PM10
+2021-09-28,Agartala,1.0,Good,39,PM10
+2021-09-29,Agartala,1.0,Good,31,PM10
+2021-09-30,Agartala,1.0,Good,31,O3
+2021-10-03,Agartala,1.0,Good,36,PM10
+2021-10-06,Agartala,1.0,Good,40,O3
+2021-10-07,Agartala,1.0,Satisfactory,81,PM2.5
+2021-10-08,Agartala,1.0,Satisfactory,99,PM2.5
+2021-10-09,Agartala,1.0,Moderate,112,PM2.5
+2021-10-10,Agartala,1.0,Satisfactory,87,PM2.5
+2021-10-11,Agartala,1.0,Satisfactory,82,PM10
+2021-10-12,Agartala,1.0,Satisfactory,89,PM10
+2021-10-13,Agartala,1.0,Satisfactory,51,O3
+2021-10-14,Agartala,1.0,Satisfactory,70,PM10
+2021-10-15,Agartala,1.0,Satisfactory,65,PM10
+2021-10-16,Agartala,1.0,Good,28,PM10
+2021-10-17,Agartala,1.0,Good,26,SO2
+2021-10-18,Agartala,1.0,Good,26,SO2
+2021-10-20,Agartala,1.0,Good,26,SO2
+2021-10-22,Agartala,1.0,Satisfactory,81,PM10
+2021-10-23,Agartala,1.0,Satisfactory,83,PM10
+2021-10-24,Agartala,1.0,Satisfactory,97,PM2.5
+2021-10-25,Agartala,1.0,Satisfactory,90,PM2.5
+2021-10-26,Agartala,1.0,Satisfactory,87,PM10
+2021-10-27,Agartala,1.0,Satisfactory,92,PM10
+2021-10-28,Agartala,1.0,Satisfactory,69,PM10
+2021-10-29,Agartala,1.0,Satisfactory,79,PM10
+2021-10-30,Agartala,1.0,Satisfactory,86,PM10
+2021-10-31,Agartala,1.0,Satisfactory,84,PM10
+2021-11-01,Agartala,1.0,Moderate,122,PM2.5
+2021-11-02,Agartala,1.0,Moderate,122,PM2.5
+2021-11-03,Agartala,1.0,Moderate,167,PM2.5
+2021-11-04,Agartala,1.0,Moderate,129,PM2.5
+2021-11-05,Agartala,1.0,Poor,242,PM2.5
+2021-11-06,Agartala,1.0,Moderate,127,PM2.5
+2021-11-07,Agartala,1.0,Moderate,117,PM2.5
+2021-11-08,Agartala,1.0,Satisfactory,83,PM10
+2021-11-09,Agartala,1.0,Satisfactory,82,PM10
+2021-11-10,Agartala,1.0,Moderate,130,PM2.5
+2021-11-11,Agartala,1.0,Moderate,103,PM2.5
+2021-11-12,Agartala,1.0,Moderate,137,PM2.5
+2021-11-13,Agartala,1.0,Moderate,121,PM2.5
+2021-11-14,Agartala,1.0,Satisfactory,82,PM2.5
+2021-11-15,Agartala,1.0,Moderate,156,PM2.5
+2021-11-16,Agartala,1.0,Moderate,132,PM2.5
+2021-11-17,Agartala,1.0,Moderate,131,PM2.5
+2021-11-18,Agartala,1.0,Satisfactory,86,PM2.5
+2021-11-19,Agartala,1.0,Moderate,111,PM2.5
+2021-11-20,Agartala,1.0,Moderate,113,PM2.5
+2021-11-21,Agartala,1.0,Moderate,154,PM2.5
+2021-11-22,Agartala,1.0,Moderate,181,PM2.5
+2021-11-23,Agartala,1.0,Moderate,177,PM2.5
+2021-11-24,Agartala,1.0,Moderate,194,PM2.5
+2021-11-25,Agartala,1.0,Moderate,166,PM2.5
+2021-11-26,Agartala,1.0,Poor,224,PM2.5
+2021-11-27,Agartala,1.0,Poor,239,PM2.5
+2021-11-28,Agartala,1.0,Poor,217,PM2.5
+2021-11-29,Agartala,1.0,Moderate,176,PM2.5
+2021-11-30,Agartala,1.0,Moderate,155,PM2.5
+2021-12-01,Agartala,1.0,Moderate,117,PM2.5
+2021-12-02,Agartala,1.0,Satisfactory,85,PM10
+2021-12-03,Agartala,1.0,Moderate,114,PM2.5
+2021-12-04,Agartala,1.0,Satisfactory,96,PM10
+2021-12-05,Agartala,1.0,Moderate,150,PM2.5
+2021-12-06,Agartala,1.0,Satisfactory,55,PM2.5
+2021-12-07,Agartala,1.0,Good,27,SO2
+2021-12-08,Agartala,1.0,Good,30,PM10
+2021-12-09,Agartala,1.0,Satisfactory,61,PM10
+2021-12-10,Agartala,1.0,Satisfactory,87,PM10
+2021-12-11,Agartala,1.0,Moderate,189,PM2.5
+2021-12-12,Agartala,1.0,Moderate,183,PM2.5
+2021-12-13,Agartala,1.0,Moderate,176,PM2.5
+2021-12-14,Agartala,1.0,Moderate,193,PM2.5
+2021-12-15,Agartala,1.0,Poor,224,PM2.5
+2021-12-16,Agartala,1.0,Moderate,149,PM2.5
+2021-12-17,Agartala,1.0,Moderate,133,PM2.5
+2021-12-18,Agartala,1.0,Moderate,162,PM2.5
+2021-12-19,Agartala,1.0,Poor,206,PM2.5
+2021-12-20,Agartala,1.0,Poor,264,PM2.5
+2021-12-21,Agartala,1.0,Very Poor,317,PM2.5
+2021-12-22,Agartala,1.0,Poor,278,PM2.5
+2021-12-23,Agartala,1.0,Poor,252,PM2.5
+2021-12-24,Agartala,1.0,Poor,248,PM2.5
+2021-12-25,Agartala,1.0,Poor,239,PM2.5
+2021-12-26,Agartala,1.0,Moderate,121,PM2.5
+2021-12-27,Agartala,1.0,Moderate,160,PM2.5
+2021-12-28,Agartala,1.0,Moderate,169,PM2.5
+2021-12-29,Agartala,1.0,Moderate,172,PM2.5
+2021-12-30,Agartala,1.0,Moderate,162,PM2.5
+2021-12-31,Agartala,1.0,Poor,216,PM2.5
+2022-01-01,Agartala,1.0,Poor,228,PM2.5
+2022-01-02,Agartala,1.0,Poor,284,PM2.5
+2022-01-03,Agartala,1.0,Poor,287,PM2.5
+2022-01-04,Agartala,1.0,Poor,290,PM2.5
+2022-01-05,Agartala,1.0,Poor,290,PM2.5
+2022-01-06,Agartala,1.0,Poor,289,PM2.5
+2022-01-07,Agartala,1.0,Poor,252,PM2.5
+2022-01-08,Agartala,1.0,Poor,211,PM2.5
+2022-01-09,Agartala,1.0,Poor,251,PM2.5
+2022-01-10,Agartala,1.0,Poor,268,PM2.5
+2022-01-11,Agartala,1.0,Poor,268,PM2.5
+2022-01-12,Agartala,1.0,Poor,214,PM2.5
+2022-01-13,Agartala,1.0,Poor,261,PM2.5
+2022-01-14,Agartala,1.0,Poor,225,PM2.5
+2022-01-15,Agartala,1.0,Moderate,139,PM2.5
+2022-01-16,Agartala,1.0,Poor,230,PM2.5
+2022-01-17,Agartala,1.0,Poor,248,PM2.5
+2022-01-20,Agartala,1.0,Very Poor,325,PM2.5
+2022-01-21,Agartala,1.0,Very Poor,305,PM2.5
+2022-01-22,Agartala,1.0,Very Poor,317,PM2.5
+2022-01-23,Agartala,1.0,Very Poor,310,PM2.5
+2022-01-24,Agartala,1.0,Moderate,167,PM2.5
+2022-01-25,Agartala,1.0,Moderate,105,PM2.5
+2022-01-26,Agartala,1.0,Poor,234,PM2.5
+2022-01-27,Agartala,1.0,Moderate,173,PM2.5
+2022-01-28,Agartala,1.0,Moderate,175,PM2.5
+2022-01-29,Agartala,1.0,Poor,255,PM2.5
+2022-01-30,Agartala,1.0,Poor,299,PM2.5
+2022-01-31,Agartala,1.0,Poor,298,PM2.5
+2022-02-01,Agartala,1.0,Poor,252,PM2.5
+2022-02-02,Agartala,1.0,Moderate,150,PM2.5
+2022-02-03,Agartala,1.0,Moderate,160,PM2.5
+2022-02-04,Agartala,1.0,Moderate,193,PM2.5
+2022-02-05,Agartala,1.0,Satisfactory,85,SO2
+2022-02-06,Agartala,1.0,Moderate,124,PM2.5
+2022-02-07,Agartala,1.0,Moderate,184,PM2.5
+2022-02-08,Agartala,1.0,Poor,229,PM2.5
+2022-02-09,Agartala,1.0,Poor,218,PM2.5
+2022-02-10,Agartala,1.0,Poor,264,PM2.5
+2022-02-11,Agartala,1.0,Poor,280,PM2.5
+2022-02-12,Agartala,1.0,Poor,204,PM2.5
+2022-02-13,Agartala,1.0,Moderate,184,PM2.5
+2022-02-14,Agartala,1.0,Poor,231,PM2.5
+2022-02-15,Agartala,1.0,Poor,220,PM2.5
+2022-02-16,Agartala,1.0,Poor,239,PM2.5
+2022-02-17,Agartala,1.0,Poor,261,PM2.5
+2022-02-18,Agartala,1.0,Poor,244,PM2.5
+2022-02-19,Agartala,1.0,Poor,216,PM2.5
+2022-02-20,Agartala,1.0,Moderate,166,PM2.5
+2022-02-21,Agartala,1.0,Moderate,109,PM2.5
+2022-02-22,Agartala,1.0,Moderate,103,PM10
+2022-02-23,Agartala,1.0,Moderate,120,PM2.5
+2022-02-24,Agartala,1.0,Poor,202,PM2.5
+2022-02-25,Agartala,1.0,Moderate,162,PM2.5
+2022-02-26,Agartala,1.0,Moderate,180,PM2.5
+2022-02-27,Agartala,1.0,Moderate,170,PM2.5
+2022-02-28,Agartala,1.0,Poor,232,PM2.5
+2022-03-01,Agartala,1.0,Poor,237,PM2.5
+2022-03-02,Agartala,1.0,Moderate,182,PM2.5
+2022-03-03,Agartala,1.0,Moderate,191,PM2.5
+2022-03-04,Agartala,1.0,Poor,240,PM2.5
+2022-03-05,Agartala,1.0,Poor,226,PM2.5
+2022-03-06,Agartala,1.0,Poor,234,PM2.5
+2022-03-07,Agartala,1.0,Poor,225,PM2.5
+2022-03-08,Agartala,1.0,Poor,217,PM2.5
+2022-03-09,Agartala,1.0,Poor,256,PM2.5
+2022-03-10,Agartala,1.0,Poor,257,PM2.5
+2022-03-11,Agartala,1.0,Poor,224,PM2.5
+2022-03-12,Agartala,1.0,Poor,238,PM2.5
+2022-03-13,Agartala,1.0,Poor,249,PM2.5
+2022-03-14,Agartala,1.0,Poor,266,PM2.5
+2022-03-15,Agartala,2.0,Poor,288,PM2.5
+2022-03-16,Agartala,2.0,Poor,262,PM2.5
+2022-03-17,Agartala,2.0,Poor,236,PM2.5
+2022-03-18,Agartala,2.0,Poor,285,PM2.5
+2022-03-19,Agartala,2.0,Poor,282,PM2.5
+2022-03-20,Agartala,2.0,Poor,241,PM2.5
+2022-03-21,Agartala,2.0,Moderate,148,PM2.5
+2022-03-22,Agartala,2.0,Moderate,138,PM2.5
+2022-03-23,Agartala,2.0,Poor,237,PM2.5
+2022-03-24,Agartala,1.0,Moderate,158,PM2.5
+2022-03-25,Agartala,2.0,Satisfactory,90,"PM10, SO2"
+2022-03-26,Agartala,2.0,Satisfactory,83,"PM10, SO2"
+2022-03-27,Agartala,2.0,Satisfactory,86,"PM10, SO2"
+2022-03-28,Agartala,2.0,Satisfactory,96,"PM2.5, SO2"
+2022-03-29,Agartala,1.0,Satisfactory,80,PM2.5
+2022-03-30,Agartala,1.0,Satisfactory,62,PM2.5
+2022-03-31,Agartala,2.0,Satisfactory,74,"PM2.5, SO2"
+2022-04-01,Agartala,2.0,Satisfactory,78,"PM10, SO2"
+2022-04-02,Agartala,2.0,Satisfactory,77,"PM10, SO2"
+2022-04-03,Agartala,2.0,Satisfactory,76,"PM10, PM2.5"
+2022-04-04,Agartala,2.0,Satisfactory,57,PM10
+2022-04-05,Agartala,2.0,Satisfactory,64,PM10
+2022-04-06,Agartala,2.0,Satisfactory,58,PM10
+2022-04-07,Agartala,2.0,Satisfactory,73,PM10
+2022-04-08,Agartala,2.0,Satisfactory,98,PM10
+2022-04-09,Agartala,2.0,Satisfactory,82,"PM10, SO2"
+2022-04-10,Agartala,2.0,Good,48,PM10
+2022-04-11,Agartala,2.0,Satisfactory,54,PM10
+2022-04-12,Agartala,1.0,Satisfactory,62,PM10
+2022-04-13,Agartala,2.0,Satisfactory,65,PM10
+2022-04-14,Agartala,2.0,Satisfactory,56,PM10
+2022-04-15,Agartala,2.0,Good,50,PM10
+2022-04-16,Agartala,1.0,Satisfactory,55,PM10
+2022-04-17,Agartala,2.0,Good,50,PM10
+2022-04-18,Agartala,2.0,Good,46,PM10
+2022-04-19,Agartala,2.0,Satisfactory,58,PM10
+2022-04-20,Agartala,2.0,Satisfactory,56,PM10
+2022-04-21,Agartala,2.0,Good,50,"O3, PM10"
+2022-04-22,Agartala,2.0,Satisfactory,72,"PM10, PM2.5"
+2022-04-23,Agartala,2.0,Satisfactory,62,PM10
+2022-04-24,Agartala,2.0,Satisfactory,75,"PM10, PM2.5"
+2022-04-25,Agartala,2.0,Satisfactory,66,PM10
+2022-04-26,Agartala,2.0,Satisfactory,75,PM10
+2022-04-27,Agartala,2.0,Satisfactory,82,PM10
+2022-04-28,Agartala,2.0,Satisfactory,86,PM10
+2022-04-29,Agartala,2.0,Satisfactory,94,PM10
+2022-04-30,Agartala,2.0,Satisfactory,83,PM10
+2022-05-01,Agartala,2.0,Satisfactory,80,PM10
+2022-05-02,Agartala,2.0,Satisfactory,76,PM10
+2022-05-03,Agartala,1.0,Satisfactory,66,PM10
+2022-05-04,Agartala,1.0,Good,40,PM10
+2022-05-05,Agartala,2.0,Good,48,PM10
+2022-05-06,Agartala,1.0,Good,42,PM2.5
+2022-05-07,Agartala,2.0,Satisfactory,66,PM10
+2022-05-08,Agartala,2.0,Satisfactory,99,PM10
+2022-05-09,Agartala,2.0,Satisfactory,60,PM10
+2022-05-10,Agartala,2.0,Good,31,PM10
+2022-05-11,Agartala,2.0,Good,40,"PM10, SO2"
+2022-05-12,Agartala,2.0,Satisfactory,56,"PM10, SO2"
+2022-05-13,Agartala,2.0,Satisfactory,52,PM10
+2022-05-14,Agartala,2.0,Satisfactory,57,PM10
+2022-05-15,Agartala,2.0,Good,50,PM10
+2022-05-16,Agartala,1.0,Good,39,PM10
+2022-05-17,Agartala,2.0,Good,42,PM10
+2022-05-18,Agartala,2.0,Good,36,PM10
+2022-05-19,Agartala,2.0,Good,34,PM10
+2022-05-20,Agartala,2.0,Good,34,PM10
+2022-05-21,Agartala,2.0,Good,41,PM10
+2022-05-22,Agartala,2.0,Satisfactory,94,"PM10, SO2"
+2022-05-23,Agartala,2.0,Good,50,PM10
+2022-05-24,Agartala,2.0,Satisfactory,66,"O3, PM10"
+2022-05-25,Agartala,2.0,Satisfactory,59,PM10
+2022-05-26,Agartala,2.0,Good,46,PM10
+2022-05-27,Agartala,2.0,Satisfactory,54,PM10
+2022-05-28,Agartala,2.0,Satisfactory,62,PM10
+2022-05-29,Agartala,2.0,Satisfactory,62,PM10
+2022-05-30,Agartala,2.0,Good,50,"O3, PM10"
+2022-05-31,Agartala,2.0,Satisfactory,60,PM10
+2022-06-01,Agartala,2.0,Satisfactory,52,PM10
+2022-06-02,Agartala,2.0,Satisfactory,64,"PM10, SO2"
+2022-06-03,Agartala,2.0,Satisfactory,56,PM10
+2022-06-04,Agartala,2.0,Good,44,PM10
+2022-06-05,Agartala,2.0,Satisfactory,51,PM10
+2022-06-06,Agartala,2.0,Satisfactory,56,PM10
+2022-06-07,Agartala,2.0,Satisfactory,70,PM10
+2022-06-08,Agartala,2.0,Good,46,PM10
+2022-06-09,Agartala,2.0,Satisfactory,56,PM10
+2022-06-10,Agartala,2.0,Good,40,PM10
+2022-06-11,Agartala,2.0,Satisfactory,56,PM10
+2022-06-12,Agartala,2.0,Satisfactory,61,PM10
+2022-06-13,Agartala,2.0,Good,46,PM10
+2022-06-14,Agartala,1.0,Good,43,PM10
+2022-06-15,Agartala,2.0,Good,42,PM10
+2022-06-16,Agartala,2.0,Good,35,PM10
+2022-06-17,Agartala,2.0,Good,29,PM10
+2022-06-18,Agartala,2.0,Good,22,PM10
+2022-06-19,Agartala,1.0,Good,29,PM10
+2022-06-20,Agartala,1.0,Good,22,CO
+2022-06-21,Agartala,2.0,Good,24,"PM10, SO2"
+2022-06-22,Agartala,2.0,Good,31,"PM10, PM2.5"
+2022-06-23,Agartala,2.0,Good,28,"PM10, SO2"
+2022-06-24,Agartala,2.0,Good,26,"PM10, SO2"
+2022-06-25,Agartala,1.0,Good,32,PM10
+2022-06-26,Agartala,1.0,Good,33,PM10
+2022-06-27,Agartala,1.0,Good,31,PM10
+2022-06-28,Agartala,2.0,Good,33,PM10
+2022-06-29,Agartala,2.0,Good,33,PM10
+2022-06-30,Agartala,2.0,Good,24,"CO, PM10"
+2022-07-01,Agartala,2.0,Good,38,PM10
+2022-07-02,Agartala,2.0,Good,28,PM10
+2022-07-03,Agartala,1.0,Good,26,PM10
+2022-07-04,Agartala,1.0,Good,30,PM10
+2022-07-05,Agartala,1.0,Good,33,PM10
+2022-07-06,Agartala,2.0,Good,32,"PM10, SO2"
+2022-07-07,Agartala,2.0,Good,34,"PM10, PM2.5"
+2022-07-08,Agartala,2.0,Good,35,"PM10, PM2.5"
+2022-07-09,Agartala,2.0,Good,36,"PM10, PM2.5"
+2022-07-10,Agartala,2.0,Good,32,"PM2.5, SO2"
+2022-07-11,Agartala,2.0,Good,31,PM2.5
+2022-07-12,Agartala,2.0,Good,32,"PM2.5, SO2"
+2022-07-13,Agartala,2.0,Good,32,"PM2.5, SO2"
+2022-07-14,Agartala,2.0,Good,32,"PM2.5, SO2"
+2022-07-15,Agartala,1.0,Good,31,SO2
+2022-07-16,Agartala,1.0,Good,23,PM10
+2022-07-17,Agartala,2.0,Good,32,"PM10, PM2.5"
+2022-07-18,Agartala,2.0,Good,36,"PM10, PM2.5"
+2022-07-19,Agartala,2.0,Good,29,PM10
+2022-07-20,Agartala,2.0,Good,30,PM10
+2022-07-21,Agartala,2.0,Good,39,"PM10, PM2.5"
+2022-07-22,Agartala,2.0,Good,42,"PM10, PM2.5"
+2022-07-23,Agartala,2.0,Good,33,"PM10, PM2.5"
+2022-07-24,Agartala,2.0,Good,32,"PM10, PM2.5"
+2022-07-25,Agartala,1.0,Good,25,PM10
+2022-07-26,Agartala,2.0,Good,34,"PM10, PM2.5"
+2022-07-27,Agartala,2.0,Good,46,PM10
+2022-07-28,Agartala,2.0,Satisfactory,64,"PM10, PM2.5"
+2022-07-29,Agartala,2.0,Good,48,"PM10, PM2.5"
+2022-07-30,Agartala,2.0,Satisfactory,53,"PM10, PM2.5"
+2022-07-31,Agartala,2.0,Good,35,"PM10, PM2.5"
+2022-08-01,Agartala,1.0,Good,38,PM2.5
+2022-08-02,Agartala,2.0,Good,42,"PM10, PM2.5"
+2022-08-03,Agartala,2.0,Good,47,"PM10, PM2.5"
+2022-08-04,Agartala,1.0,Good,37,PM10
+2022-08-05,Agartala,2.0,Good,36,PM10
+2022-08-06,Agartala,2.0,Good,32,PM10
+2022-08-07,Agartala,2.0,Good,30,PM10
+2022-08-08,Agartala,2.0,Good,31,"PM10, PM2.5"
+2022-08-09,Agartala,2.0,Good,42,PM10
+2022-08-10,Agartala,2.0,Good,49,PM10
+2022-08-11,Agartala,2.0,Good,34,PM10
+2022-08-12,Agartala,2.0,Good,30,PM10
+2022-08-13,Agartala,2.0,Good,34,PM10
+2022-08-14,Agartala,2.0,Good,24,PM10
+2022-08-15,Agartala,2.0,Good,36,PM10
+2022-08-16,Agartala,2.0,Good,39,PM10
+2022-08-17,Agartala,2.0,Good,50,"PM10, PM2.5"
+2022-08-18,Agartala,2.0,Satisfactory,95,"PM10, PM2.5"
+2022-08-19,Agartala,1.0,Good,34,PM10
+2022-08-20,Agartala,2.0,Good,36,PM10
+2022-08-21,Agartala,1.0,Good,43,PM2.5
+2022-08-23,Agartala,1.0,Good,32,PM10
+2022-08-24,Agartala,2.0,Good,32,PM10
+2022-08-25,Agartala,1.0,Good,33,PM10
+2022-08-26,Agartala,2.0,Satisfactory,72,"PM10, PM2.5"
+2022-08-27,Agartala,2.0,Satisfactory,63,"PM10, PM2.5"
+2022-08-28,Agartala,2.0,Good,44,"PM10, PM2.5"
+2022-08-29,Agartala,2.0,Satisfactory,52,PM10
+2022-08-30,Agartala,2.0,Satisfactory,60,PM10
+2022-08-31,Agartala,2.0,Satisfactory,58,"PM10, PM2.5"
+2022-09-01,Agartala,1.0,Good,44,PM10
+2022-09-02,Agartala,2.0,Good,39,"PM10, PM2.5"
+2022-09-03,Agartala,2.0,Good,28,"PM10, PM2.5"
+2022-09-04,Agartala,2.0,Good,27,"PM10, PM2.5"
+2022-09-05,Agartala,2.0,Good,32,"PM10, PM2.5"
+2022-09-06,Agartala,2.0,Good,34,"PM10, PM2.5"
+2022-09-07,Agartala,2.0,Good,46,"PM10, PM2.5"
+2022-09-08,Agartala,2.0,Good,34,"PM10, PM2.5"
+2022-09-09,Agartala,2.0,Good,49,"PM10, PM2.5"
+2022-09-10,Agartala,2.0,Good,28,"PM10, PM2.5"
+2022-09-11,Agartala,2.0,Good,22,"PM10, SO2"
+2022-09-12,Agartala,2.0,Good,25,PM10
+2022-09-13,Agartala,2.0,Good,24,"PM10, PM2.5"
+2022-09-14,Agartala,2.0,Good,23,"PM10, PM2.5"
+2022-09-15,Agartala,2.0,Good,32,"PM10, PM2.5"
+2022-09-16,Agartala,2.0,Good,41,"PM10, PM2.5"
+2022-09-17,Agartala,2.0,Good,47,"PM10, PM2.5"
+2022-09-18,Agartala,2.0,Satisfactory,63,"PM10, PM2.5"
+2022-09-19,Agartala,2.0,Good,45,"PM10, PM2.5"
+2022-09-20,Agartala,2.0,Good,31,PM10
+2022-09-21,Agartala,2.0,Good,38,PM10
+2022-09-22,Agartala,2.0,Good,48,PM10
+2022-09-23,Agartala,2.0,Satisfactory,54,"PM10, PM2.5"
+2022-09-24,Agartala,2.0,Good,45,"PM10, PM2.5"
+2022-09-25,Agartala,2.0,Satisfactory,51,"PM10, PM2.5"
+2022-09-26,Agartala,2.0,Satisfactory,60,PM10
+2022-09-27,Agartala,2.0,Good,47,PM10
+2022-09-28,Agartala,2.0,Satisfactory,66,"PM10, PM2.5"
+2022-09-29,Agartala,2.0,Satisfactory,81,"PM10, PM2.5"
+2022-09-30,Agartala,2.0,Satisfactory,82,"PM10, PM2.5"
+2022-10-01,Agartala,2.0,Satisfactory,73,"PM10, PM2.5"
+2022-10-02,Agartala,2.0,Satisfactory,52,PM10
+2022-10-03,Agartala,2.0,Good,22,"PM10, SO2"
+2022-10-04,Agartala,1.0,Good,36,PM10
+2022-10-05,Agartala,1.0,Good,30,SO2
+2022-10-06,Agartala,1.0,Good,41,PM10
+2022-10-07,Agartala,1.0,Satisfactory,54,PM2.5
+2022-10-08,Agartala,1.0,Satisfactory,54,PM10
+2022-10-09,Agartala,1.0,Good,45,PM10
+2022-10-10,Agartala,1.0,Moderate,126,PM2.5
+2022-10-11,Agartala,1.0,Good,29,PM10
+2022-10-12,Agartala,1.0,Good,25,PM10
+2022-10-13,Agartala,1.0,Good,31,PM10
+2022-10-14,Agartala,2.0,Good,42,"PM10, PM2.5"
+2022-10-15,Agartala,2.0,Satisfactory,83,"PM10, PM2.5"
+2022-10-16,Agartala,2.0,Satisfactory,74,"PM10, PM2.5"
+2022-10-17,Agartala,2.0,Satisfactory,85,"PM10, PM2.5"
+2022-10-18,Agartala,2.0,Satisfactory,71,"PM10, PM2.5"
+2022-10-19,Agartala,2.0,Satisfactory,66,"PM10, PM2.5"
+2022-10-20,Agartala,2.0,Moderate,109,PM2.5
+2022-10-21,Agartala,2.0,Satisfactory,79,"PM10, PM2.5"
+2022-10-22,Agartala,2.0,Satisfactory,92,"PM10, PM2.5"
+2022-10-23,Agartala,2.0,Satisfactory,83,"PM10, PM2.5"
+2022-10-24,Agartala,2.0,Satisfactory,66,PM2.5
+2022-10-25,Agartala,1.0,Good,15,PM10
+2022-10-26,Agartala,1.0,Satisfactory,93,PM2.5
+2022-10-27,Agartala,1.0,Satisfactory,61,PM10
+2022-10-28,Agartala,2.0,Moderate,144,PM2.5
+2022-10-29,Agartala,2.0,Moderate,136,PM2.5
+2022-10-30,Agartala,2.0,Moderate,121,PM2.5
+2022-10-31,Agartala,2.0,Moderate,119,PM2.5
+2022-11-01,Agartala,2.0,Satisfactory,88,"PM10, PM2.5"
+2022-11-02,Agartala,2.0,Moderate,113,"PM10, PM2.5"
+2022-11-03,Agartala,2.0,Moderate,144,PM2.5
+2022-11-04,Agartala,2.0,Poor,213,PM2.5
+2022-11-05,Agartala,2.0,Moderate,182,PM2.5
+2022-11-06,Agartala,2.0,Satisfactory,92,"PM10, PM2.5"
+2022-11-07,Agartala,2.0,Moderate,138,PM2.5
+2022-11-08,Agartala,2.0,Moderate,152,PM2.5
+2022-11-09,Agartala,2.0,Satisfactory,90,"PM10, PM2.5"
+2022-11-10,Agartala,2.0,Satisfactory,73,"PM10, PM2.5"
+2022-11-11,Agartala,2.0,Moderate,106,"PM10, PM2.5"
+2022-11-12,Agartala,2.0,Moderate,132,PM10
+2022-11-13,Agartala,2.0,Moderate,175,PM2.5
+2022-11-14,Agartala,1.0,Moderate,131,PM10
+2022-11-15,Agartala,2.0,Moderate,162,PM2.5
+2022-11-16,Agartala,2.0,Satisfactory,84,PM10
+2022-11-17,Agartala,1.0,Satisfactory,98,PM10
+2022-11-18,Agartala,2.0,Satisfactory,90,PM10
+2022-11-19,Agartala,1.0,Moderate,106,PM10
+2022-11-20,Agartala,1.0,Satisfactory,94,PM10
+2022-11-21,Agartala,1.0,Moderate,153,PM2.5
+2022-11-22,Agartala,2.0,Moderate,158,PM2.5
+2022-11-23,Agartala,2.0,Poor,204,PM2.5
+2022-11-24,Agartala,2.0,Moderate,179,PM2.5
+2022-11-25,Agartala,2.0,Moderate,134,"PM10, PM2.5"
+2022-11-26,Agartala,2.0,Moderate,115,"PM10, PM2.5"
+2022-11-27,Agartala,2.0,Moderate,106,"PM10, PM2.5"
+2022-11-28,Agartala,2.0,Satisfactory,96,PM10
+2022-11-29,Agartala,2.0,Moderate,161,PM2.5
+2022-11-30,Agartala,2.0,Moderate,200,PM2.5
+2022-12-01,Agartala,2.0,Poor,233,PM2.5
+2022-12-02,Agartala,2.0,Poor,219,PM2.5
+2022-12-03,Agartala,2.0,Poor,239,PM2.5
+2022-12-04,Agartala,1.0,Poor,222,PM2.5
+2022-12-05,Agartala,1.0,Poor,227,PM2.5
+2022-12-06,Agartala,2.0,Poor,208,PM2.5
+2022-12-07,Agartala,2.0,Poor,236,PM2.5
+2022-12-08,Agartala,2.0,Poor,203,PM2.5
+2022-12-09,Agartala,2.0,Moderate,175,PM2.5
+2022-12-10,Agartala,2.0,Poor,226,PM2.5
+2022-12-11,Agartala,2.0,Poor,229,PM2.5
+2022-12-12,Agartala,2.0,Poor,254,PM2.5
+2022-12-13,Agartala,2.0,Poor,250,PM2.5
+2022-12-14,Agartala,1.0,Poor,284,PM2.5
+2022-12-15,Agartala,2.0,Very Poor,328,PM2.5
+2022-12-16,Agartala,2.0,Very Poor,358,PM2.5
+2022-12-17,Agartala,2.0,Poor,225,"PM10, PM2.5"
+2022-12-18,Agartala,2.0,Moderate,158,"PM10, PM2.5"
+2022-12-19,Agartala,2.0,Moderate,132,"PM10, PM2.5"
+2022-12-20,Agartala,2.0,Poor,202,PM2.5
+2022-12-21,Agartala,2.0,Poor,227,PM2.5
+2022-12-22,Agartala,2.0,Poor,230,PM2.5
+2022-12-23,Agartala,2.0,Poor,254,PM2.5
+2022-12-24,Agartala,2.0,Poor,248,PM2.5
+2022-12-25,Agartala,2.0,Poor,214,PM2.5
+2022-12-26,Agartala,2.0,Poor,227,PM2.5
+2022-12-27,Agartala,2.0,Poor,235,PM2.5
+2022-12-28,Agartala,2.0,Moderate,117,PM2.5
+2022-12-29,Agartala,2.0,Poor,261,PM2.5
+2022-12-30,Agartala,2.0,Poor,248,PM2.5
+2022-12-31,Agartala,2.0,Poor,274,PM2.5
+2023-01-01,Agartala,2.0,Poor,234,PM2.5
+2023-01-02,Agartala,2.0,Poor,232,PM2.5
+2023-01-03,Agartala,2.0,Poor,240,PM2.5
+2023-01-04,Agartala,2.0,Poor,248,PM2.5
+2023-01-05,Agartala,2.0,Moderate,181,"PM10, PM2.5"
+2023-01-06,Agartala,2.0,Moderate,186,PM2.5
+2023-01-07,Agartala,2.0,Moderate,181,"PM10, PM2.5"
+2023-01-08,Agartala,2.0,Moderate,163,"PM10, PM2.5"
+2023-01-09,Agartala,2.0,Moderate,158,"PM10, PM2.5"
+2023-01-10,Agartala,2.0,Moderate,176,"PM10, PM2.5"
+2023-01-11,Agartala,2.0,Moderate,161,"PM10, PM2.5"
+2023-01-12,Agartala,2.0,Poor,238,"PM10, PM2.5"
+2023-01-13,Agartala,2.0,Poor,244,"PM10, PM2.5"
+2023-01-14,Agartala,2.0,Poor,222,PM2.5
+2023-01-15,Agartala,2.0,Poor,268,"PM10, PM2.5"
+2023-01-16,Agartala,2.0,Moderate,119,PM2.5
+2023-01-17,Agartala,2.0,Moderate,170,"PM10, PM2.5"
+2023-01-18,Agartala,2.0,Poor,206,"PM10, PM2.5"
+2023-01-19,Agartala,2.0,Moderate,196,"PM10, PM2.5"
+2023-01-20,Agartala,2.0,Poor,244,"PM10, PM2.5"
+2023-01-21,Agartala,2.0,Poor,223,"PM10, PM2.5"
+2023-01-22,Agartala,2.0,Very Poor,308,PM2.5
+2023-01-23,Agartala,2.0,Poor,219,"PM10, PM2.5"
+2023-01-24,Agartala,2.0,Poor,264,"PM10, PM2.5"
+2023-01-25,Agartala,2.0,Poor,241,"PM10, PM2.5"
+2023-01-26,Agartala,2.0,Very Poor,362,PM2.5
+2023-01-27,Agartala,2.0,Poor,261,PM2.5
+2023-01-28,Agartala,1.0,Poor,231,PM2.5
+2023-01-29,Agartala,2.0,Poor,286,PM2.5
+2023-01-30,Agartala,2.0,Very Poor,332,PM2.5
+2023-01-31,Agartala,2.0,Poor,236,PM2.5
+2023-02-01,Agartala,2.0,Very Poor,351,PM2.5
+2023-02-02,Agartala,2.0,Poor,204,"PM10, PM2.5"
+2023-02-04,Agartala,1.0,Very Poor,354,PM2.5
+2023-02-05,Agartala,1.0,Poor,262,PM10
+2023-02-06,Agartala,2.0,Poor,281,PM2.5
+2023-02-07,Agartala,1.0,Poor,217,PM2.5
+2023-02-08,Agartala,2.0,Moderate,124,"PM10, PM2.5"
+2023-02-09,Agartala,2.0,Moderate,136,"PM10, PM2.5"
+2023-02-10,Agartala,2.0,Moderate,188,"PM10, PM2.5"
+2023-02-11,Agartala,2.0,Moderate,174,"PM10, PM2.5"
+2023-02-12,Agartala,2.0,Poor,224,"PM10, PM2.5"
+2023-02-13,Agartala,2.0,Moderate,180,"PM10, PM2.5"
+2023-02-14,Agartala,2.0,Moderate,148,PM2.5
+2023-02-15,Agartala,2.0,Poor,228,PM2.5
+2023-02-16,Agartala,2.0,Poor,278,PM2.5
+2023-02-17,Agartala,2.0,Poor,284,PM2.5
+2023-02-18,Agartala,2.0,Very Poor,308,PM2.5
+2023-02-19,Agartala,2.0,Very Poor,326,PM2.5
+2023-02-20,Agartala,2.0,Very Poor,309,PM2.5
+2023-02-21,Agartala,2.0,Very Poor,316,PM2.5
+2023-02-22,Agartala,2.0,Moderate,183,PM2.5
+2023-02-23,Agartala,2.0,Moderate,157,PM2.5
+2023-02-24,Agartala,2.0,Moderate,166,PM2.5
+2023-02-25,Agartala,2.0,Moderate,165,PM2.5
+2023-02-26,Agartala,2.0,Moderate,188,PM2.5
+2023-02-27,Agartala,2.0,Poor,214,PM2.5
+2023-02-28,Agartala,2.0,Poor,206,"PM10, PM2.5"
+2023-03-01,Agartala,2.0,Poor,214,"PM10, PM2.5"
+2023-03-02,Agartala,2.0,Poor,250,PM2.5
+2023-03-03,Agartala,2.0,Poor,250,PM2.5
+2023-03-04,Agartala,2.0,Poor,236,PM2.5
+2023-03-05,Agartala,2.0,Poor,253,PM2.5
+2023-03-06,Agartala,2.0,Poor,240,PM2.5
+2023-03-07,Agartala,2.0,Poor,300,PM2.5
+2023-03-08,Agartala,1.0,Poor,260,PM2.5
+2023-03-09,Agartala,1.0,Poor,299,PM2.5
+2023-03-10,Agartala,1.0,Very Poor,312,PM2.5
+2023-03-11,Agartala,1.0,Very Poor,315,PM2.5
+2023-03-12,Agartala,1.0,Very Poor,327,PM2.5
+2023-03-13,Agartala,1.0,Very Poor,316,PM2.5
+2023-03-14,Agartala,2.0,Poor,255,PM2.5
+2023-03-15,Agartala,2.0,Poor,233,PM2.5
+2023-03-16,Agartala,2.0,Moderate,172,"PM10, PM2.5"
+2023-03-17,Agartala,2.0,Moderate,114,"PM10, PM2.5"
+2023-03-18,Agartala,2.0,Poor,247,PM2.5
+2023-03-19,Agartala,2.0,Poor,210,PM2.5
+2023-03-20,Agartala,2.0,Satisfactory,72,"PM10, PM2.5"
+2023-03-21,Agartala,2.0,Good,44,"PM10, PM2.5"
+2023-03-22,Agartala,2.0,Satisfactory,64,PM2.5
+2023-03-23,Agartala,2.0,Satisfactory,72,PM2.5
+2023-03-24,Agartala,2.0,Satisfactory,84,PM2.5
+2023-03-25,Agartala,2.0,Moderate,158,PM2.5
+2023-03-26,Agartala,2.0,Moderate,184,PM2.5
+2023-03-27,Agartala,2.0,Satisfactory,90,PM2.5
+2023-03-28,Agartala,2.0,Moderate,109,PM2.5
+2023-03-29,Agartala,2.0,Satisfactory,99,PM2.5
+2023-03-30,Agartala,2.0,Satisfactory,91,PM2.5
+2023-03-31,Agartala,2.0,Satisfactory,67,PM2.5
+2023-04-01,Agartala,2.0,Satisfactory,68,PM2.5
+2023-04-02,Agartala,2.0,Satisfactory,59,PM2.5
+2023-04-03,Agartala,2.0,Satisfactory,58,PM2.5
+2023-04-04,Agartala,2.0,Satisfactory,90,PM2.5
+2023-04-05,Agartala,2.0,Satisfactory,58,"PM10, PM2.5"
+2023-04-06,Agartala,2.0,Moderate,121,PM2.5
+2023-04-07,Agartala,1.0,Poor,250,PM2.5
+2023-04-08,Agartala,1.0,Poor,249,PM2.5
+2023-04-09,Agartala,1.0,Poor,266,PM2.5
+2023-04-10,Agartala,1.0,Poor,295,PM2.5
+2023-04-11,Agartala,1.0,Poor,298,PM2.5
+2023-04-12,Agartala,1.0,Poor,283,PM2.5
+2023-04-13,Agartala,1.0,Poor,274,PM2.5
+2023-04-14,Agartala,1.0,Poor,237,PM2.5
+2023-04-15,Agartala,1.0,Poor,233,PM2.5
+2023-04-16,Agartala,1.0,Poor,272,PM2.5
+2023-04-17,Agartala,1.0,Poor,238,PM2.5
+2023-04-18,Agartala,1.0,Moderate,130,PM10
+2023-04-19,Agartala,1.0,Poor,280,PM2.5
+2023-04-20,Agartala,1.0,Moderate,199,PM2.5
+2023-04-21,Agartala,1.0,Moderate,175,PM2.5
+2023-04-22,Agartala,1.0,Moderate,123,PM2.5
+2023-04-23,Agartala,1.0,Moderate,195,PM2.5
+2023-04-24,Agartala,1.0,Moderate,111,PM2.5
+2023-04-25,Agartala,1.0,Poor,238,PM2.5
+2023-04-26,Agartala,1.0,Poor,246,PM2.5
+2023-04-27,Agartala,1.0,Poor,229,PM2.5
+2023-04-28,Agartala,1.0,Moderate,137,PM2.5
+2023-04-29,Agartala,1.0,Poor,210,PM2.5
+2023-04-30,Agartala,1.0,Moderate,128,PM2.5
+2023-05-01,Agartala,1.0,Moderate,166,PM2.5
+2023-05-02,Agartala,1.0,Moderate,150,PM2.5
+2023-05-03,Agartala,1.0,Poor,233,PM2.5
+2023-05-04,Agartala,1.0,Satisfactory,85,SO2
+2023-05-05,Agartala,1.0,Satisfactory,90,PM2.5
+2023-05-06,Agartala,1.0,Moderate,101,PM2.5
+2023-05-07,Agartala,1.0,Moderate,192,PM2.5
+2023-05-08,Agartala,1.0,Poor,210,PM2.5
+2023-05-09,Agartala,1.0,Poor,229,PM2.5
+2023-05-10,Agartala,1.0,Poor,212,PM2.5
+2023-05-11,Agartala,1.0,Moderate,128,PM2.5
+2023-05-12,Agartala,1.0,Moderate,184,PM2.5
+2023-05-13,Agartala,1.0,Moderate,163,PM2.5
+2023-05-14,Agartala,1.0,Moderate,137,PM2.5
+2023-05-15,Agartala,1.0,Satisfactory,73,SO2
+2023-05-16,Agartala,1.0,Satisfactory,82,SO2
+2023-05-17,Agartala,1.0,Satisfactory,83,SO2
+2023-05-18,Agartala,1.0,Satisfactory,81,SO2
+2023-05-19,Agartala,1.0,Satisfactory,82,SO2
+2023-05-20,Agartala,1.0,Satisfactory,86,SO2
+2023-05-21,Agartala,1.0,Satisfactory,89,PM2.5
+2023-05-22,Agartala,1.0,Satisfactory,86,SO2
+2023-05-23,Agartala,1.0,Satisfactory,87,PM2.5
+2023-05-24,Agartala,1.0,Satisfactory,82,SO2
+2023-05-25,Agartala,1.0,Satisfactory,91,PM2.5
+2023-05-26,Agartala,1.0,Satisfactory,85,SO2
+2023-05-27,Agartala,1.0,Satisfactory,87,SO2
+2023-05-28,Agartala,1.0,Satisfactory,85,SO2
+2023-05-29,Agartala,1.0,Moderate,151,PM2.5
+2023-05-30,Agartala,1.0,Moderate,140,PM2.5
+2023-05-31,Agartala,1.0,Poor,203,PM2.5
+2023-06-01,Agartala,1.0,Moderate,184,PM2.5
+2023-06-02,Agartala,1.0,Moderate,161,PM2.5
+2023-06-03,Agartala,1.0,Moderate,174,PM2.5
+2023-06-04,Agartala,1.0,Moderate,164,PM2.5
+2023-06-05,Agartala,1.0,Moderate,161,PM2.5
+2023-06-06,Agartala,1.0,Moderate,181,PM2.5
+2023-06-07,Agartala,1.0,Moderate,152,PM2.5
+2023-06-08,Agartala,1.0,Poor,226,PM2.5
+2023-06-09,Agartala,1.0,Satisfactory,94,PM2.5
+2023-06-10,Agartala,1.0,Satisfactory,99,PM2.5
+2023-06-12,Agartala,1.0,Satisfactory,90,PM2.5
+2023-06-13,Agartala,1.0,Satisfactory,94,PM2.5
+2023-06-14,Agartala,1.0,Moderate,105,PM2.5
+2023-06-15,Agartala,1.0,Satisfactory,98,PM2.5
+2023-06-16,Agartala,1.0,Satisfactory,88,PM2.5
+2023-06-17,Agartala,1.0,Satisfactory,86,PM2.5
+2023-06-18,Agartala,1.0,Satisfactory,77,PM2.5
+2023-06-19,Agartala,1.0,Satisfactory,79,PM2.5
+2023-06-20,Agartala,1.0,Satisfactory,66,PM2.5
+2023-06-21,Agartala,1.0,Satisfactory,86,PM2.5
+2023-06-22,Agartala,1.0,Satisfactory,80,PM2.5
+2023-06-23,Agartala,1.0,Satisfactory,51,PM10
+2023-06-24,Agartala,1.0,Good,49,PM10
+2023-06-25,Agartala,1.0,Good,47,PM10
+2023-06-26,Agartala,1.0,Good,48,PM10
+2023-06-27,Agartala,1.0,Good,43,PM10
+2023-06-28,Agartala,1.0,Satisfactory,63,PM2.5
+2023-06-29,Agartala,1.0,Satisfactory,74,PM2.5
+2023-06-30,Agartala,1.0,Satisfactory,73,PM2.5
+2023-07-01,Agartala,1.0,Satisfactory,61,PM2.5
+2023-07-02,Agartala,1.0,Good,48,PM2.5
+2023-07-03,Agartala,1.0,Satisfactory,56,PM10
+2023-07-04,Agartala,1.0,Satisfactory,54,PM10
+2023-07-05,Agartala,1.0,Good,42,PM10
+2023-07-06,Agartala,1.0,Good,38,PM10
+2023-07-07,Agartala,1.0,Good,35,PM10
+2023-07-08,Agartala,1.0,Good,35,PM10
+2023-07-09,Agartala,1.0,Good,43,PM2.5
+2023-07-10,Agartala,1.0,Good,48,PM10
+2023-07-11,Agartala,1.0,Good,47,PM10
+2023-07-12,Agartala,1.0,Good,43,PM2.5
+2023-07-13,Agartala,1.0,Good,41,PM10
+2023-07-15,Agartala,1.0,Satisfactory,56,PM2.5
+2023-07-16,Agartala,1.0,Satisfactory,64,PM2.5
+2023-07-17,Agartala,1.0,Satisfactory,65,PM2.5
+2023-07-18,Agartala,1.0,Satisfactory,68,PM2.5
+2023-07-20,Agartala,1.0,Satisfactory,69,PM2.5
+2023-07-22,Agartala,1.0,Satisfactory,57,PM2.5
+2023-07-23,Agartala,1.0,Satisfactory,71,PM2.5
+2023-07-24,Agartala,1.0,Satisfactory,85,PM2.5
+2023-07-25,Agartala,1.0,Satisfactory,69,PM2.5
+2023-07-26,Agartala,1.0,Satisfactory,61,PM2.5
+2023-07-27,Agartala,1.0,Satisfactory,60,PM2.5
+2023-07-29,Agartala,1.0,Satisfactory,63,PM2.5
+2023-07-30,Agartala,1.0,Satisfactory,82,PM2.5
+2023-07-31,Agartala,1.0,Satisfactory,72,PM2.5
+2023-08-01,Agartala,1.0,Satisfactory,73,PM2.5
+2023-08-02,Agartala,1.0,Satisfactory,56,PM2.5
+2023-08-03,Agartala,1.0,Satisfactory,56,PM2.5
+2023-08-04,Agartala,1.0,Satisfactory,63,PM2.5
+2023-08-05,Agartala,1.0,Satisfactory,81,PM2.5
+2023-08-09,Agartala,1.0,Satisfactory,67,PM2.5
+2023-08-10,Agartala,1.0,Satisfactory,80,PM2.5
+2023-08-11,Agartala,1.0,Moderate,115,PM2.5
+2023-08-12,Agartala,1.0,Moderate,142,PM2.5
+2023-08-13,Agartala,1.0,Moderate,107,PM2.5
+2023-08-14,Agartala,1.0,Satisfactory,82,PM2.5
+2023-08-15,Agartala,1.0,Moderate,148,PM2.5
+2023-08-17,Agartala,1.0,Moderate,129,PM2.5
+2023-08-18,Agartala,1.0,Satisfactory,72,PM2.5
+2023-08-19,Agartala,1.0,Satisfactory,68,PM2.5
+2023-08-20,Agartala,1.0,Satisfactory,80,PM2.5
+2023-08-21,Agartala,1.0,Moderate,110,PM2.5
+2023-08-22,Agartala,1.0,Moderate,106,PM2.5
+2023-08-24,Agartala,1.0,Satisfactory,73,PM2.5
+2023-08-27,Agartala,1.0,Moderate,106,PM2.5
+2023-08-28,Agartala,1.0,Moderate,116,PM2.5
+2023-08-29,Agartala,1.0,Moderate,166,PM2.5
+2023-08-30,Agartala,1.0,Poor,227,PM2.5
+2023-08-31,Agartala,1.0,Moderate,105,PM10
+2023-09-01,Agartala,1.0,Moderate,156,PM2.5
+2023-09-02,Agartala,1.0,Moderate,138,PM2.5
+2023-09-05,Agartala,1.0,Moderate,104,PM2.5
+2023-09-06,Agartala,1.0,Satisfactory,76,PM2.5
+2023-09-07,Agartala,1.0,Good,46,PM2.5
+2023-09-08,Agartala,1.0,Good,47,PM2.5
+2023-09-09,Agartala,1.0,Satisfactory,74,PM2.5
+2023-09-10,Agartala,1.0,Moderate,117,PM2.5
+2023-09-11,Agartala,1.0,Moderate,116,PM2.5
+2023-09-12,Agartala,1.0,Satisfactory,60,PM2.5
+2023-09-14,Agartala,1.0,Good,44,PM2.5
+2023-09-15,Agartala,1.0,Satisfactory,61,PM2.5
+2023-09-16,Agartala,1.0,Satisfactory,85,PM2.5
+2023-09-17,Agartala,1.0,Moderate,102,PM2.5
+2023-09-18,Agartala,1.0,Satisfactory,68,PM2.5
+2023-09-19,Agartala,1.0,Satisfactory,54,PM2.5
+2023-09-20,Agartala,1.0,Satisfactory,60,PM10
+2023-09-21,Agartala,1.0,Satisfactory,60,PM10
+2023-09-22,Agartala,1.0,Satisfactory,68,PM10
+2023-09-23,Agartala,1.0,Satisfactory,75,PM10
+2023-09-26,Agartala,1.0,Satisfactory,81,PM10
+2023-09-27,Agartala,1.0,Moderate,129,PM2.5
+2023-09-28,Agartala,1.0,Moderate,157,PM2.5
+2023-09-29,Agartala,1.0,Moderate,130,PM2.5
+2023-09-30,Agartala,1.0,Satisfactory,64,PM10
+2023-10-01,Agartala,1.0,Satisfactory,65,PM10
+2023-10-02,Agartala,1.0,Satisfactory,67,PM2.5
+2023-10-03,Agartala,1.0,Satisfactory,67,PM10
+2023-10-04,Agartala,1.0,Satisfactory,64,PM10
+2023-10-05,Agartala,1.0,Satisfactory,63,PM10
+2023-10-06,Agartala,1.0,Satisfactory,90,PM2.5
+2023-10-07,Agartala,1.0,Moderate,110,PM2.5
+2023-10-08,Agartala,1.0,Moderate,143,PM2.5
+2023-10-09,Agartala,1.0,Moderate,128,PM2.5
+2023-10-10,Agartala,1.0,Moderate,163,PM2.5
+2023-10-11,Agartala,1.0,Poor,233,PM2.5
+2023-10-12,Agartala,1.0,Poor,246,PM2.5
+2023-10-13,Agartala,1.0,Moderate,147,PM2.5
+2023-10-14,Agartala,1.0,Poor,209,PM2.5
+2023-10-15,Agartala,1.0,Poor,211,PM2.5
+2023-10-16,Agartala,1.0,Poor,225,PM2.5
+2023-10-17,Agartala,1.0,Poor,208,PM2.5
+2023-10-18,Agartala,1.0,Moderate,196,PM2.5
+2023-10-19,Agartala,1.0,Poor,209,PM2.5
+2023-10-20,Agartala,1.0,Poor,246,PM2.5
+2023-10-21,Agartala,1.0,Moderate,166,PM2.5
+2023-10-22,Agartala,1.0,Moderate,156,PM2.5
+2023-10-23,Agartala,1.0,Moderate,122,PM2.5
+2023-10-24,Agartala,1.0,Satisfactory,79,PM10
+2023-10-25,Agartala,1.0,Satisfactory,68,PM10
+2023-10-26,Agartala,1.0,Satisfactory,72,PM10
+2023-10-27,Agartala,1.0,Moderate,114,PM2.5
+2023-10-28,Agartala,1.0,Moderate,159,PM2.5
+2023-10-29,Agartala,1.0,Poor,288,PM2.5
+2023-10-30,Agartala,1.0,Moderate,166,PM2.5
+2023-10-31,Agartala,1.0,Poor,201,PM2.5
+2023-11-01,Agartala,1.0,Moderate,144,PM2.5
+2023-11-02,Agartala,1.0,Moderate,145,PM2.5
+2023-11-03,Agartala,1.0,Poor,232,PM2.5
+2023-11-04,Agartala,1.0,Poor,232,PM2.5
+2023-11-06,Agartala,1.0,Poor,224,PM2.5
+2023-11-07,Agartala,1.0,Poor,255,PM2.5
+2023-11-08,Agartala,1.0,Poor,263,PM2.5
+2023-11-09,Agartala,1.0,Poor,270,PM2.5
+2023-11-10,Agartala,1.0,Moderate,141,PM10
+2023-11-11,Agartala,1.0,Moderate,186,PM2.5
+2023-11-12,Agartala,1.0,Moderate,174,PM2.5
+2023-11-13,Agartala,1.0,Poor,256,PM2.5
+2023-11-14,Agartala,1.0,Moderate,147,PM2.5
+2023-11-15,Agartala,1.0,Moderate,152,PM2.5
+2023-11-16,Agartala,1.0,Moderate,134,PM2.5
+2023-11-19,Agartala,1.0,Satisfactory,83,PM10
+2023-11-20,Agartala,1.0,Moderate,107,PM2.5
+2023-11-21,Agartala,1.0,Moderate,127,PM10
+2023-11-22,Agartala,1.0,Moderate,138,PM2.5
+2023-11-23,Agartala,1.0,Poor,214,PM2.5
+2023-11-24,Agartala,1.0,Moderate,188,PM2.5
+2023-11-25,Agartala,1.0,Moderate,104,PM10
+2023-11-26,Agartala,1.0,Moderate,157,PM2.5
+2023-11-27,Agartala,1.0,Moderate,172,PM2.5
+2023-11-28,Agartala,1.0,Moderate,128,PM2.5
+2023-11-29,Agartala,1.0,Moderate,172,PM2.5
+2023-11-30,Agartala,1.0,Moderate,169,PM2.5
+2023-12-01,Agartala,1.0,Moderate,152,PM2.5
+2023-12-02,Agartala,1.0,Moderate,200,PM2.5
+2023-12-03,Agartala,1.0,Moderate,189,PM2.5
+2023-12-04,Agartala,1.0,Poor,206,PM2.5
+2023-12-05,Agartala,1.0,Moderate,189,PM2.5
+2023-12-06,Agartala,1.0,Moderate,176,PM2.5
+2023-12-07,Agartala,1.0,Moderate,114,PM2.5
+2023-12-08,Agartala,1.0,Satisfactory,65,PM10
+2023-12-09,Agartala,1.0,Moderate,105,PM10
+2023-12-10,Agartala,1.0,Poor,235,PM2.5
+2023-12-11,Agartala,1.0,Poor,274,PM2.5
+2023-12-12,Agartala,1.0,Moderate,198,PM2.5
+2023-12-13,Agartala,1.0,Poor,219,PM2.5
+2023-12-15,Agartala,1.0,Poor,293,PM2.5
+2023-12-17,Agartala,1.0,Poor,239,PM2.5
+2023-12-18,Agartala,1.0,Moderate,183,PM2.5
+2023-12-19,Agartala,1.0,Poor,202,PM2.5
+2023-12-20,Agartala,1.0,Moderate,200,PM2.5
+2023-12-21,Agartala,1.0,Moderate,182,PM2.5
+2023-12-22,Agartala,1.0,Moderate,109,PM2.5
+2023-12-23,Agartala,1.0,Moderate,125,PM2.5
+2023-12-24,Agartala,1.0,Poor,228,PM2.5
+2023-12-25,Agartala,1.0,Poor,277,PM2.5
+2023-12-26,Agartala,1.0,Poor,242,PM2.5
+2023-12-27,Agartala,1.0,Moderate,173,PM10
+2023-12-28,Agartala,1.0,Poor,278,PM2.5
+2023-12-29,Agartala,1.0,Poor,261,PM2.5
+2023-12-30,Agartala,1.0,Poor,265,PM2.5
+2023-12-31,Agartala,1.0,Moderate,179,PM10
